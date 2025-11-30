@@ -35,7 +35,7 @@ The game features 8 levels with increasing difficulty and atmosphere intensity a
 
 ![FrogThisWay_Screen_1](./ReadmeContent/GameScreenshots/FrogThisWay_Screen_1.webp)
 ![FrogThisWay_Screen_2](./ReadmeContent/GameScreenshots/FrogThisWay_Screen_2.webp)
-![FrogThisWay_Screen_3](./ReadmeContent/GameScreenshots\FrogThisWay_Screen_3.webp)
+![FrogThisWay_Screen_3](./ReadmeContent/GameScreenshots/FrogThisWay_Screen_3.webp)
 
 ---
 
